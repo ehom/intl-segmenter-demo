@@ -1,1 +1,1 @@
-# intl-segmenter-demo
+# Intl.Segmenter demo
